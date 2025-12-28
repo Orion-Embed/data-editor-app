@@ -22,9 +22,9 @@ Data Editor is and app for editing data base files specifically "SQLite3" where 
 
 ``` bash
 
-git clone ~/https://github.com/Orion-Embed/data-editor-app
+git clone https://github.com/Orion-Embed/data-editor-app
 
-cd ~/data-editor-app
+cd data-editor-app
 
 ./setup.sh 
 python3 run.py 
