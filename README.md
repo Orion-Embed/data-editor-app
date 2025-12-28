@@ -26,5 +26,4 @@ git clone https://github.com/Orion-Embed/data-editor-app
 
 cd data-editor-app
 
-./setup.sh 
 python3 run.py 
