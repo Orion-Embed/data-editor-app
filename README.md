@@ -2,12 +2,12 @@
 
 Data Editor is and app for editing data base files specifically "SQLite3" where you can create tables and manipulate them with the ability of adding rows and columns ,In addition you can make Sql queries directly from app, The app developed using PySide6 and Sqlite3 python libraries.
 
-## Installation
+# Installation
 
  Ensure you have git installed and python interpreter as well as pip
  or follow the instructions down below.
 
-# Install main packages
+## Install main packages
 
 ```bash
 # for Debian Linux based destros
@@ -18,7 +18,7 @@ Data Editor is and app for editing data base files specifically "SQLite3" where 
  sudo xbps-install git python3 python3-pip python3-venv
 ```
 
-# Setup the project
+## Setup the project
 
 ``` bash
 
